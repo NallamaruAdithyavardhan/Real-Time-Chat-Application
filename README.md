@@ -1,5 +1,7 @@
 # Real-Time Chat Application
 
+https://nallamaruadithyavardhan.github.io/Real-Time-Chat-Application/
+
 A modern, feature-rich real-time chat application built with vanilla HTML, CSS, and JavaScript. This application provides a fully functional chat interface with multiple rooms, user authentication, and text formatting capabilities.
 
 ## Features
